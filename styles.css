@@ -132,3 +132,13 @@ h2 span {
     font-size: 2rem;
     padding: 0.5rem 0;
 }
+
+@media screen and (max-width: 550px) {
+    .display {
+        width: 90%;
+    }
+
+    .watchedList {
+        width: 90%;
+    }
+}
